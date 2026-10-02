@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hello, World!
 
-**`Futura Desenvolvedora Back-end`**
+**`Futura Engenheira da computação`**
 
 Olá, sou Nathália, estudante de Ciências e Tecnologia na UFRN, com ênfase em Engenharia da Computação.
 
